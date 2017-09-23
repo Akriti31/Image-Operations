@@ -5,5 +5,5 @@ Simple Image Operations OpenCV Python
   In this project, any part of image is copied to any desirable location.
 </p>
 <h3>Result</h3>
-<div><img scr="imgsol.PNG"style="width:128px;height:128px;">
+<div><img scr="C:\Users\Monga\Desktop\Img Operation\imgsol.PNG"style="width:128px;height:128px;">
 </div>
